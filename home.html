@@ -9,10 +9,11 @@
    <link href="home.css" rel="stylesheet" />
    <link rel="stylesheet" href="effect.css">
    <script src="nav.js"></script>
+   <script src="clock.js"></script>
 </head>
 <body>
    <header>
-      <div id="header_title">Inchang Woo's Page</div>
+      <div id="header_title">My Page</div>
       <div id="navbar" class="vertical-nav">
          <button id="toggle-btn" onclick="toggleNav()">☰</button>
          <a href="home.html">
@@ -33,5 +34,17 @@
          </a>
      </div>
    </header>
+   <main>
+      <section id="leftColumn">
+         <img src="/jpgs/gooba.jpg" id = "lcimage" alt="" width="437" height="300"/>
+         <br>
+         <p id="lcP">I'm a student, 23 years old in douglas college.
+            I'm currently in my first semester, and I'm from Korea. 
+            I'm currently in computer science, but I'm a little clumsy because I'm new to the front end. 
+            Originally, my major at a Korean university was the Department of International Trade,
+            and I'm here to study coding because it's fun. I'm not good enough, but I'll try harder to learn.</p>
+      </section>
+      <div id="dateTimeDisplay"></div>
+   </main>
 </body>
 </html>

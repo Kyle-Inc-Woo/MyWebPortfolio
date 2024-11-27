@@ -18,3 +18,9 @@
     text-shadow: 0 0 10px rgba(89, 227, 167);
     animation: neon-flicker 1s infinite alternate;
 }
+
+#dateTimeDisplay{
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+}

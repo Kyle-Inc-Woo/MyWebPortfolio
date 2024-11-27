@@ -97,13 +97,32 @@ header .homeicon img {
    margin-left: 200px; 
 }
 
-section {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-wrap: wrap;
-   margin-left: 20%;
+#dateTimeDisplay {
+   position: absolute; 
+   top: 10px;
+   right: 10px;
+   width: auto; 
+   border: 3px solid rgb(89, 227, 167);
+   text-align: center;
+   font-size: 1.2em; 
+   color: rgb(89, 227, 167);
+   padding: 5px 10px;
+   background-color: rgba(0, 0, 0, 0.7); 
 }
+
+#lcimage {
+   width: 50%; 
+   height: auto; 
+   display: block;
+   margin: 20px auto; 
+}
+
+#lcP {
+   width: 60%;
+   margin: 0 auto;
+   font-size: 1.7vw; 
+}
+
 
 
 /*Apply Neon-Effect*/
