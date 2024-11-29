@@ -5,9 +5,9 @@ function updateDateTime() {
     
     document.getElementById('dateTimeDisplay').innerText = formattedDateTime;
  }
- 
+
 
  document.addEventListener('DOMContentLoaded', function() {
     updateDateTime();
-    setInterval(updateDateTime, 1000);
+    setInterval(updateDateTime, 1000); 
  });

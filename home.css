@@ -103,29 +103,36 @@ header .homeicon img {
    right: 10px;
    width: auto; 
    border: 3px solid rgb(89, 227, 167);
+   border-radius: 5px;
    text-align: center;
    font-size: 1.2em; 
    color: rgb(89, 227, 167);
    padding: 5px 10px;
    background-color: rgba(0, 0, 0, 0.7); 
+
 }
 
+
 #lcimage {
-   width: 50%; 
+   width: 50%;
    height: auto; 
    display: block;
-   margin: 20px auto; 
+   margin: 20px auto;
+   border: 4px solid rgb(89, 227, 167);
+   border-radius: 5px;
+   padding: 2px;
 }
 
 #lcP {
    width: 60%;
    margin: 0 auto;
-   font-size: 1.7vw; 
+   font-size: 1.6vw; 
+   margin-bottom: 20px;
+   border: 4px solid rgb(89, 227, 167);
+   border-radius: 5px;
+   padding: 2px;
 }
 
-
-
-/*Apply Neon-Effect*/
 #header_title {
    text-align: center;
    font-size: 2em;
@@ -133,5 +140,6 @@ header .homeicon img {
    padding: 50px 10px;
    background-size: cover;
 }
+
 
 

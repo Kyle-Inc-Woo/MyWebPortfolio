@@ -19,8 +19,71 @@
     animation: neon-flicker 1s infinite alternate;
 }
 
-#dateTimeDisplay{
+
+#dateTimeDisplay {
     color: rgba(89, 227, 167, 0.77);
     text-shadow: 0 0 10px rgba(89, 227, 167);
     animation: neon-flicker 1s infinite alternate;
 }
+
+#lcimage {
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+}
+
+#lcP {
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+}
+
+.portfolio-container a span {
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+}
+
+.buttons button {
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+}
+
+.container h1 {
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+  }
+
+  .result p {
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+  }
+
+  h1{
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+  }
+
+  form label {
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+  }
+
+  form input[type="email"],
+form textarea{
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+}
+
+form button{
+    color: rgba(89, 227, 167, 0.77);
+    text-shadow: 0 0 10px rgba(89, 227, 167);
+    animation: neon-flicker 1s infinite alternate;
+}
+
